@@ -1,0 +1,126 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 130%;
+}
+h1{font-size: 5.2 rem;
+  color:#66BFBF;
+  font-family: 'Sacramento',sans-serif;
+  margin-top:50px;
+
+}
+.h22{
+  color: #66BFBF;
+}
+
+.myskills{
+color: #66BFBF;
+}
+.e1
+{
+  color: #66BFBF;
+}
+.top{
+  padding: 100px;
+  background-color: #caf7e3;
+  position:relative;
+}
+.middle{
+  padding: 10px;
+
+}
+.skill-row{
+  font-size: 90%;
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom{
+margin-top: 50px;
+  background-color:#66BFBF;
+  padding:30px;
+  height: 100px;
+}
+a{
+  font-family: 'Merriweather',sans-serif;
+margin: 0 30px 0 30px;
+text-decoration: none;
+}
+a:hover{
+  font-family: "Montserrat",sans-serif;
+  color: #EAF4F6;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.bottomcloud
+{
+  position: absolute;
+top:300px
+}
+.topcloud
+{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.elec{
+
+  width: 20%;
+  margin-right:30px;
+  float: left;
+  vertical-align: middle;
+  padding-bottom: 170px;
+}
+.webdevimg{
+  width: 25%;
+  float: right;
+  margin-right:30px;
+}
+.profile{
+  width:50%;
+  margin: 100px auto 100px auto;
+}
+.h3{
+  margin-bottom: 50px;
+}
+
+  .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+  }
+  hr{
+    border-style: dotted none none none ;
+    border-width:5px;
+    border-color:grey;
+     width :5%;
+     margin-bottom:20px;
+
+  }
+
+  .btn:hover {
+    background: #20e3cb;
+    background-image: -webkit-linear-gradient(top, #20e3cb, #20bc4ad);
+    background-image: -moz-linear-gradient(top, #20e3cb, #20bc4ad);
+    background-image: -ms-linear-gradient(top, #20e3cb, #20bc4ad);
+    background-image: -o-linear-gradient(top, #20e3cb, #20bc4ad);
+    background-image: linear-gradient(to bottom, #20e3cb, #20bc4ad);
+    text-decoration: none;
+  }
